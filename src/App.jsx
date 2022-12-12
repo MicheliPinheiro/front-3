@@ -2,7 +2,10 @@
 //import { Login } from './pages/Login'
 //import { SegundaAula } from './lessons/SegundaAula'
 //import { TerceiraAula } from './lessons/TerceiraAula'
-import { QuartaAula } from './lessons/QuartaAula'
+//import { QuartaAula } from './lessons/QuartaAula'
+//import { InstagramTimeLine } from './challenges/InstagramTimeLine'
+//import { QuintaAula } from "./lessons/QuintaAula"
+import { DHGAmes } from "./pages/DHGames"
 
 function App() {
 
@@ -12,7 +15,10 @@ function App() {
     {/* <Login /> */}
     {/* <SegundaAula /> */}
     {/* <TerceiraAula /> */}
-    { <QuartaAula /> }
+    {/* <QuartaAula /> */}
+    {/* <InstagramTimeLine/> */}
+    {/* <QuintaAula /> */}
+    < DHGAmes />
     </>
   )
 }
