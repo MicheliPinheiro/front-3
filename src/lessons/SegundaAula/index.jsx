@@ -2,7 +2,7 @@ import './style.scss'
 
 export function SegundaAula() {
     return (
-        <main>
+        <main className='segunda-aula-componente'>
             <h1>Segunda Aula</h1>
             <h2>Projeto escolhido: Canva</h2>
             <ul>

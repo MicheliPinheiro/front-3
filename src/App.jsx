@@ -1,7 +1,8 @@
 // Tudo que eu crio aqui é pra usar como componente
-import { TerceiraAula } from './lessons/TerceiraAula'
-import { SegundaAula } from './lessons/SegundaAula'
-import { Login } from './pages/Login'
+//import { Login } from './pages/Login'
+//import { SegundaAula } from './lessons/SegundaAula'
+//import { TerceiraAula } from './lessons/TerceiraAula'
+import { QuartaAula } from './lessons/QuartaAula'
 
 function App() {
 
@@ -10,7 +11,8 @@ function App() {
     {/* Alguns componetnes estão comentados para só mostrar um componente. */}
     {/* <Login /> */}
     {/* <SegundaAula /> */}
-    <TerceiraAula />
+    {/* <TerceiraAula /> */}
+    { <QuartaAula /> }
     </>
   )
 }
