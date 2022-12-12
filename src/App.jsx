@@ -5,7 +5,8 @@
 //import { QuartaAula } from './lessons/QuartaAula'
 //import { InstagramTimeLine } from './challenges/InstagramTimeLine'
 //import { QuintaAula } from "./lessons/QuintaAula"
-import { DHGAmes } from "./pages/DHGames"
+//import { DHGAmes } from "./pages/DHGames"
+import { SetimaAula } from "./lessons/SetimaAula"
 
 function App() {
 
@@ -18,7 +19,8 @@ function App() {
     {/* <QuartaAula /> */}
     {/* <InstagramTimeLine/> */}
     {/* <QuintaAula /> */}
-    < DHGAmes />
+    {/* < DHGAmes /> */}
+    < SetimaAula />
     </>
   )
 }
