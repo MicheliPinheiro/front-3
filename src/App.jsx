@@ -6,21 +6,23 @@
 //import { InstagramTimeLine } from './challenges/InstagramTimeLine'
 //import { QuintaAula } from "./lessons/QuintaAula"
 //import { DHGAmes } from "./pages/DHGames"
-import { SetimaAula } from "./lessons/SetimaAula"
+//import { SetimaAula } from "./lessons/SetimaAula"
+import { DecimaTerceiraAula } from "./lessons/DecimaTerceiraAula"
 
 function App() {
 
   return (
     <>
-    {/* Alguns componetnes estão comentados para só mostrar um componente. */}
-    {/* <Login /> */}
-    {/* <SegundaAula /> */}
-    {/* <TerceiraAula /> */}
-    {/* <QuartaAula /> */}
-    {/* <InstagramTimeLine/> */}
-    {/* <QuintaAula /> */}
-    {/* < DHGAmes /> */}
-    < SetimaAula />
+    {/* Alguns componetnes estão comentados para só mostrar um componente.
+    <Login />
+    <SegundaAula />
+    <TerceiraAula />
+    <QuartaAula />
+    <InstagramTimeLine/>
+    <QuintaAula />
+     DHGAmes />
+    < SetimaAula /> */}
+    < DecimaTerceiraAula />
     </>
   )
 }
